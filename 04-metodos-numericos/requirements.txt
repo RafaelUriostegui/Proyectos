@@ -1,0 +1,7 @@
+# Métodos numéricos
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+opencv-python

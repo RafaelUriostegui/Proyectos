@@ -1,0 +1,11 @@
+# Imagen médica
+numpy
+scipy
+matplotlib
+Pillow
+PyOpenGL
+PyOpenGL_accelerate
+glfw
+SimpleITK
+PyWavelets
+opencv-python

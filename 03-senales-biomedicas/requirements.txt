@@ -1,0 +1,11 @@
+# Señales biomédicas
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+mne
+PySpice
+sympy
+ipywidgets

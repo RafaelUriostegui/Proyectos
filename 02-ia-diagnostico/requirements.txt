@@ -1,0 +1,14 @@
+# IA para diagnóstico
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+xgboost
+imbalanced-learn
+Pillow
+datasets
+neurokit2
+wfdb
